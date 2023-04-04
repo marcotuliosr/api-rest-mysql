@@ -1,0 +1,36 @@
+OBJGEN - Criar objeto JSON
+https://www.objgen.com/json/local/design
+
+USER:
+
+firstName = Camilo
+lastName = Barreto
+userName = camilobarreto
+password = 123456
+phone = +5534999998888
+socialNetwork = www.google.com
+
+{
+  "firstName": "Camilo",
+  "lastName": "Barreto",
+  "userName": "camilobarreto",
+  "password": "123456",
+  "phone": "+5534999998888",
+  "socialNetwork": "www.google.com"
+}
+
+EMAIL:
+
+from = camilo@gmail.com
+to = alunos@iftm.edu.br
+subject = Atividade 02
+body = Nova atividade...
+attachment = atividade.zip
+
+{
+  "from": "camilo@gmail.com",
+  "to": "alunos@iftm.edu.br",
+  "subject": "Atividade 02",
+  "body": "Nova atividade...",
+  "attachment": "atividade.zip"
+}
